@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Kiren S (aka Sanji)
+# 👋 Hey, I'm Kiren S 
 
 I'm an aspiring AI Engineer with a passion for building **real-world solutions** — not just theoretical models.  
 From OCR systems to smart resume screeners, I design tools that merge **intelligence** with **impact**.
