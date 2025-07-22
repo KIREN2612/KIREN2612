@@ -48,7 +48,7 @@ From OCR systems to smart resume screeners, I design tools that merge **intellig
 ---
 
 > _"Build what others overlook. Solve what others accept."_  
-> — Sanji 🏴‍☠️
+
 
 ---
 
